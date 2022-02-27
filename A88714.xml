@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last and best newes from Ireland declaring first the warlike and cruell proceeding of the rebels who are all papists and Jesuits of that kingdome. Secondly, the entrance of some English and Scottish companies into the north-parts of Ireland under the command of these foure noblemen; the Lord Grandison, the Lord Chichester, the Lord Conway, the Lord Cromwell, also the late incounters which they have had with those rebels. Thirdly, how the rebels would have fired and burnt up the city of Dublin with wild-fire: and likewise the taking of some Irish Lords and other commaunders prisoners, both of horse and foot. Fourthly, divers letters from severall persons of good worth in Ireland touching the cruell proceedings of the rebells to this very day. Fifthly, Irelands complaint, and Englands reliefe sent by the honorable house of parliament to ayde and assist their brethren; together with the names of those commanders that are appointed for this religious designe. Sixtly, the proclamation made by the Lords and Justices of Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88714</idno>
+            <idno type="STC">Wing L470</idno>
+            <idno type="STC">Thomason E177_10</idno>
+            <idno type="STC">ESTC R17935</idno>
+            <idno type="EEBO-CITATION">99860304</idno>
+            <idno type="PROQUEST">99860304</idno>
+            <idno type="VID">112422</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88714)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112422)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E177[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last and best newes from Ireland declaring first the warlike and cruell proceeding of the rebels who are all papists and Jesuits of that kingdome. Secondly, the entrance of some English and Scottish companies into the north-parts of Ireland under the command of these foure noblemen; the Lord Grandison, the Lord Chichester, the Lord Conway, the Lord Cromwell, also the late incounters which they have had with those rebels. Thirdly, how the rebels would have fired and burnt up the city of Dublin with wild-fire: and likewise the taking of some Irish Lords and other commaunders prisoners, both of horse and foot. Fourthly, divers letters from severall persons of good worth in Ireland touching the cruell proceedings of the rebells to this very day. Fifthly, Irelands complaint, and Englands reliefe sent by the honorable house of parliament to ayde and assist their brethren; together with the names of those commanders that are appointed for this religious designe. Sixtly, the proclamation made by the Lords and Justices of Ireland.</title>
+                  <author>Watson, Joseph, Merchant in Dublin.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coules and T. Bates,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:112422:1"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:112422:1" rendition="simple:additions"/>
+            <p>The laſt and beſt newes from IRELAND: Declaring
+<list>
+                  <item>Firſt the warlike and cruell proceeding of the Rebels who are all papiſts and Je<g ref="char:EOLhyphen"/>ſuits of that Kingdome.</item>
+                  <item>Secondly, the entrance of ſome Engliſh and Scottiſh companies into the North-parts of <hi>Ireland</hi> under the command of theſe foure noblemen; the Lord <hi>Grandiſon,</hi> the Lord <hi>Chicheſter,</hi> the Lord <hi>Conway,</hi> the Lord <hi>Cromwell;</hi> alſo the late incounters which they have had with thoſe Rebels.</item>
+                  <item>Thirdly, how the Rebels would have fired and burnt up the City of <hi>Dublin</hi> with wild-fire: And likewiſe the taking of ſome Iriſh Lords and other Com<g ref="char:EOLhyphen"/>maunders priſoners, both of horſe and foot.</item>
+                  <item>Fourthly, Divers letters from ſeverall perſons of good worth in <hi>Ireland</hi> touching the cruell proceedings of the Rebells to this very day.</item>
+                  <item>Fifthly, <hi>Irelands</hi> complaint, and <hi>Englands</hi> reliefe ſent by the honorable houſe of parliament, to ayde and aſſiſt their brethren; together with the names of thoſe Commanders that are appointed for this Religious deſigne.</item>
+                  <item>Sixtly, The proclamation made by the Lords and Juſtices of <hi>Ireland.</hi>
+                  </item>
+               </list>
+            </p>
+            <figure/>
+            <p>
+               <hi>London</hi> Printed for <hi>F. Coules,</hi> and <hi>T. Bates.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112422:2"/>
+            <head>The Coppy of a Letter ſent from <hi>Dublin,</hi> concerning the late proceedings of the Rebels in <hi>Ireland.</hi>
+            </head>
+            <p>SInce the laſt time I wrot unto you, there hath not beene any Towne taken by the Rebels but <hi>Dundalke;</hi> yet there are and have bin divers Roberies done and com<g ref="char:EOLhyphen"/>mitted in the Country; this day about ten of the clock there marched 1000. foot with compleat Armes, and part of two troopes of horſe towards <hi>Drogheda</hi> with 4. fielde pieces; and we heare that the Scots in our North parts, are marching towards the Neury with 5000, foot well armed, and foure Troopes of horſe, <hi>viz.</hi> The Lord <hi>Grandiſons,</hi> the Lord <hi>Chieheſters,</hi> the Lord <hi>Conwayes,</hi> and the Lord <hi>Crom<g ref="char:EOLhyphen"/>wels,</hi> ſo that we hope we are here all ſafe, now the danger is paſt, the Army being on foot.</p>
+            <closer>
+               <dateline>Dated at <hi>Dublin,</hi> 
+                  <date>Novem. 3. 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A true Relation of the laſt proceeding's in ſeverall Pro<g ref="char:EOLhyphen"/>vinces in the Kingdome of <hi>Ireland. 1641.</hi>
+            </head>
+            <p>ON Saturday being the 6, of November, a party of the Rebels were diſcovered by my Lord <hi>Grandiſon,</hi> marching towards a Towne called <hi>Grage,</hi> with an intent to plunder it, but forces being ſent under the command of my Lord <hi>Grandiſon</hi> intercepted their paſlage, being in Ambuſh in a wood called the Poal-Mounty a dan<g ref="char:EOLhyphen"/>gerous and obſcure paſſage through which they were diſco<g ref="char:EOLhyphen"/>vered, and that my L. <hi>Grandiſon</hi> was too ſtrong for them, upon which ſight, the Rebels all run away, ſome over Bogs, others into the woods. Tueſday the 9. of Novemb there was a skirmiſh betweene a party of the Proteſtants forces, which gathered together in <hi>Dungarvin,</hi> who hearing of ſome of the Rebels that were met upon a Heath neare adjoyning, with intent to ſet upon ſome Village neare unto it, theſe for<g ref="char:EOLhyphen"/>ces iſſued out and ſlew ſome 50. of them, putting the reft to flight. Many outrages are daily committed by the Rebels in ſeverall places of the Kingdome which I cannot fully re<g ref="char:EOLhyphen"/>late as yet only this the troubles of this Kingdom are great, the multitude of out enemies daily increaſe, and our forces are yet but ſmall, God inoreaſe ours, and ſend us peace.</p>
+         </div>
+         <div type="document">
+            <pb facs="tcp:112422:2"/>
+            <head>A Proclamation made by the Lords, Iuſtices, and Councell in the Caſtle of <hi>Dublin.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>William Parſons,</item>
+                     <item>Iohn Burlacy,</item>
+                     <item>Ad. Loftus,</item>
+                     <item>G. Shirley,</item>
+                     <item>L. Temple.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>VVHereas a Petition hath beene prefer'd unto Us by divers Lords and Gentlemen of the Engliſh Pale, in the behalfe of themſelves and the reſt of the Pale, and others of the old Engliſh of this Kingdome, ſhewing that whereas a a late conſpiracy of Treaſon is diſcovered, of ill affected perſons of the old Jriſh, and that thereupon, a Proclamation was publiſhed by Us, wherein among other things it is declared that the ſayd conſpiracy was perpertrated by the old Iriſh Papiſts, without diſtinction of any, and they doubting by thoſe generall words of Iriſh Papiſts, they might ſeeme to be involved, though they declare themſelves confident, that did not intend to include them therein, in regard they are none of the old Iriſh, nor of their faction, or confederacy, but they are altogether averſe and oppoſite to all their deſignes and all others of like condition: we do therefore to give them full ſatisfaction hereby declare and pub<g ref="char:EOLhyphen"/>liſh to all his Majeſties good ſubjects in this Kingdome, that by the words Iriſh Papiſts, we intended only ſuch of the old meere Iriſh, in the Province of <hi>Vlſter,</hi> as have plotted and contrived, and bin Actors in this conſpiracy, and others who adhere to them, and that we did not any way intend or meane thereby any of the old Engliſh of the Pale, nor of any other parts of this Kingdome, we being wel aſſured of their fidelities to the Crown and having experience of the good affection and ſervice of their Anceſtors in former times of danger and Rebellion, and we further require all his Majeſties loving Subjects, whether Proteſtants or Papiſts, to forbeare upbraiding matter of Religion, one againſt the o<g ref="char:EOLhyphen"/>ther and that upon paine of his Majeſties indignation.</p>
+            <closer>
+               <dateline>Given at his Majeſties Caſtle of <hi>Dublin,</hi> 
+                  <date>November 4, 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter ſent by the Lord chief Iuſtices of <hi>Ireland,</hi> 
+               <date>Novem. 5.</date>
+            </head>
+            <p>THe calamity of the Engliſh &amp; Iriſh Proteſtants in <hi>Ireland</hi> is great, and the miſchief that the Rebels have done, are many and ſo much the more ought to be ſeverely Executed by reaſon of a proclamation which the Rebels have put out, commanding all thoſe that are Engliſh proteſtants to be gone away immediately after the publiſhing thereof, or otherwiſe to take what puniſhments the Rebels ſhall inflict upon them as they do with all cruelty and inhumanity; they aſſaulted <hi>Treda</hi> and plundred the Town committing many out-rages therein, as name<g ref="char:EOLhyphen"/>ly they entred violently into a houſe of Dr. <hi>Vſhers</hi> there now L. primate of <hi>Ireland,</hi> and carried away 4000. l. in plate and money, but we hope ſhortly they will be ſuppreſſed.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:112422:3"/>
+            <head>A <hi>Wild-fire</hi> Plot found out in <hi>Ireland.</hi>
+            </head>
+            <p>IF there were ever found deadly enemies to true Chriſtian Religion, they are now found out in <hi>Ireland,</hi> that Mother of all treachery, and Nurſe of Treaſon. For their inveterate malice is grown to the full per<g ref="char:EOLhyphen"/>fection of diſloyalty: and what they could not perfect in one nefarious Plot, they did now intend to performe in another. Their late pretended Gun-powder Plot is not unknown to all men which they being fruſtra<g ref="char:EOLhyphen"/>ted of (having much Powder by that meanes ready by them) did make therewith many Balls of Wild-fire, with which they intended to burne the whole City of <hi>Dublin</hi> with a vaſt inflation. The number of all the <hi>Rebels</hi> are conceived to be for certainry about 30000. and their mul<g ref="char:EOLhyphen"/>titude increaſeth daily: many of them lye in Caves of the Earth, ſome others are in <hi>Dundalke,</hi> which they tooke the 30. day of <hi>October,</hi> others are in the Countries of <hi>Vlſter, Canaugh</hi> and <hi>Cavia,</hi> but eſpecially in the Country of <hi>Manahom</hi> in great number: But not to wander from my intent, I will ſpeake more largely of the Wild-fire, which they plotted very lately for the ruine of the whole Kingdome. About the dead time of <hi>Thurſday</hi> night, being the 11. of <hi>Nov.</hi> 500. of them or thereabout, came out of the Caves in the Earth, with balls of Wild-fire in their hands, caſting and toſſing them over the City Walls of <hi>Dublin.</hi> There were five houſes burnt downe thereby equall to the ground, and the fire tooke hold of many other houſes, but (as it was Gods great mercy) they were ſuddainly quenched by the great labour of the people, and thankes be to Almighty God, no more hurt was done by them.</p>
+            <p>There was an <hi>Engliſh</hi> Merchant lived in one of thoſe houſes that were burnt, whoſe eſtate was ſuppoſed to be no leſſe then 35000l and hee loſt moſt of his Eſtate there. The reſt were all Proteſtants, men of very good faſhion and reputation: but by the reaſon of that calami<g ref="char:EOLhyphen"/>ty, were ſcarce worth any thing: all whoſe Eſtates wee doe much de<g ref="char:EOLhyphen"/>plore, and commiſerate. But there are a 1000. men doe guard the Ci<g ref="char:EOLhyphen"/>ty day and night: who hearing of this combuſtion, did immediately march out of the Gates, and tooke three Lords, Lord <hi>Caſmahowne,</hi> L. <hi>Mackamaveire,</hi> L. <hi>Bohoune,</hi> with about the number of fifty other <hi>Re<g ref="char:EOLhyphen"/>bels,</hi> whom they committed all to the Caſtle, the other fled, and run a<g ref="char:EOLhyphen"/>bout the fields and woods, and raiſed a great number of <hi>Rebels</hi> pre<g ref="char:EOLhyphen"/>ſently; who were about nine thouſand the next day, and marched
+<pb facs="tcp:112422:3"/>againſt the City: but the Lords and Juſtices, having ſome ſuſpition be<g ref="char:EOLhyphen"/>fore thereof, did that very night ſend a Poſt to <hi>Scotland,</hi> and ſome <hi>Engliſh</hi> Colonels, who very lovingly did aſſiſt them. There came from <hi>Scotland,</hi> and the Northern parts of <hi>England</hi> 4000. Foot-men, and 400. Horſe-men, who did in ſome manner qualifie them. Sir <hi>Francis Willoughby</hi> Governour of the Caſtle, commanded 50. pieces of Ordi<g ref="char:EOLhyphen"/>nance to be brought out, which were diſcharged againſt the <hi>Rebels,</hi> he had 00. men under him. My Lord <hi>Moore</hi> came from <hi>Broghedo</hi> with 700. Foot-men. Sir <hi>H. Iuckbourne</hi> with ten foot Companies in com<g ref="char:EOLhyphen"/>pleat Armes, Sir <hi>Charles Coot</hi> with 1000 foot. So that in all the num<g ref="char:EOLhyphen"/>ber of the <hi>Rebels</hi> that were flaine, were about 3000. and 80. beſides many Armes, which the <hi>Engliſh, Scottiſh,</hi> and <hi>Iriſh</hi> Proteſtants did take from them.</p>
+            <p>The Rogues are very reſolute, for they put both man, woman and children to the Sword, whereſoever they meet them, without any di<g ref="char:EOLhyphen"/>ſtinction of Sexe with cruell Tyranny, But they very ſeldome appeare armed; ſo that ſometimes they are not knowne, and ſo under pre<g ref="char:EOLhyphen"/>tence of <hi>Proteſtants,</hi> they cut their throats; for they bury all their Armour in Caves in the Woods: wherefore all things are exceſſive deare in the City, neither can they ſcarce buy any thing for their mo<g ref="char:EOLhyphen"/>ny, for the Country dare not venter to bring in any <hi>Commodities to the City,</hi> for feare the <hi>Rebels</hi> ſhould aſſault them, who lye in ambuſh almoſt every where thereabout. They dare not travell in the day, much leſſe in the night, for then the <hi>Rebels</hi> are moſt obvious, and doe range more frequently about. So that things of meere neceſſity can ſcarce bee had in the City to the great reliefe of the Inhabitants thereof.</p>
+            <p>O egregious treachery! or rather Treaſon to the King, and King<g ref="char:EOLhyphen"/>dome! Theſe things would make a very <hi>Democritus</hi> to cry out in dolefull exclamations. But let thoſe that delight thus in ſuch fire, feare leaſt they fall into an everlaſting fire: and let them take heed, leſt a ſudden fire deſcend from Heaven and conſume them <hi>Praecipit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ouſly,</hi> like as the fiery Serpents did the <hi>Jſraelites.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:112422:4"/>
+            <head>The true Copie of a Letter ſent from Mr. <hi>Ioſeph Watſon</hi> Merchant in Dublin, to Mr. <hi>Waterhouſe</hi> Citizen in London, dated November the <hi>4. 1641.</hi>
+            </head>
+            <opener>
+               <salute>Mr. <hi>Waterhouſe:</hi>
+               </salute>
+            </opener>
+            <p>AFter our loves remembred unto you, hoping of your good health, which the Lord in his mercie long continue: this is to certifie you concerning our condition. I doubt not, but you have heard of the Papiſts which are riſen in rebellion, but God did deliver our Citie from their bloudy device, elſe we had not a man of us beene a live this day. For they had intended to take the Caſtle, where all the ſtrength of the Kingdome was, and then they would have ruinated us, and all the Engliſh in the Kingdome, had not God miraculouſly delivered us. The diſcoverie was but at ten of the clock on Friday night, and the next morning they might have took the Caſtle, had not one in compa<g ref="char:EOLhyphen"/>ny revealed it to the Lords: and though we ſeeme to have beene deli<g ref="char:EOLhyphen"/>vered, yet wee are ſtill in great feare; for wee know not who are our enemics, and friends. Many enemies wee have amongſt us in the Citie, that ſhould have been the firſt that ſhould have cut our throats, as it hath beene in the Countrey, in one of the heſt plantations of the Engliſh, that is now in the Countie of <hi>Manahom,</hi> and <hi>Cavin,</hi> and o<g ref="char:EOLhyphen"/>ther Counties. The whole Countie of <hi>Manahom,</hi> the Iriſh thereof are in rebellion, and many Engliſh are deſtroyed, and loſt their lives and all their meanes; ſome worth a thouſand pounds over night, and not a rag to cover them the next day. There is by relation five hundred people of them now in our Citie, all ſtripped of their cloaths: no dif<g ref="char:EOLhyphen"/>ference betweene rich and poore, only the rich were worſe dealt with. Now our Lords have ſent out yeſterday an Army downe, and the Scots in the North parts are riſen to meet them. But it is thought the Scots have met with them ere this, and have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riven them from one place; but there are a great number of them, but not a quarter of them armed men, but they have good ſtore of Armes: We hope the Lord will ſtay them. Many of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m are taken, and more everie day, but it will be a great while before they be ſuppreſſed: and our Souldiers many falſe, and ſtill wee everie day and night witch them. There is above five hundred men in Armes watch our C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tie everienight, Houſholders and other men, are I may ſay a thouſand. Wee have in our out-Streets two hundred. They would have ſet our Towne on ſire, for they are mainly inraged, and daily treacheries are found our, which is Gods great mer<g ref="char:EOLhyphen"/>cie to us. By this meanes wee have no trade in our Citie more than need requires, that is, for victuals, and candles, and ſuch like things, which men cannot be without; and wee can get in no debts, for men
+<pb facs="tcp:112422:4"/>will pay no moneys. For my part, I ſhall bee a great loſer by theſe times, for we are at a great charge, it is one mans work to watch, and there is great diſtraction. Thus with my love to your prayers, which I know are not wanting for us, I ever reſt</p>
+            <closer>
+               <signed>Your loving friend, <hi>Ioſeph Watſon.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copie of another Letter ſent to a worthy Divine in this Citie.</head>
+            <opener>
+               <salute>Worthy Sir.:</salute>
+            </opener>
+            <p>AFter my beſt reſpects recommended unto you, I think it expedi<g ref="char:EOLhyphen"/>ent to acquaint you of all affaires, that belong to our Iriſh buſi<g ref="char:EOLhyphen"/>neſſe. My Lord <hi>Moore</hi> is in <hi>Drogheda</hi> with ſeven hundred Foot, and a Troop or two: ſome of my Lords children are already come hither, and we exp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct my Lady <hi>Moore</hi> and the reſt of the children this nignt. My Lord hath ſent hither ſeverall Trunks, they are this day put into the Caſtle to be ſafely preſerved. There is two hundred Souldiers in the Caſtle, victualled for twelve months, and about fiftie Peeces of Ord<g ref="char:EOLhyphen"/>nance mounted, to keep the Citie in awe. Sir <hi>Francis Willoughby</hi> is Governour, and Sir <hi>Iohn Borlacie</hi> lodgeth therein. The Iuſtices ſit at Cork-houſe, to free the Caſtle from recourſe of people thereto. This morning have marched toward <hi>Drogheda,</hi> ten Foot Companies in compleat Armes, under the command of Sir <hi>Henry Iuckbourne. Dun<g ref="char:EOLhyphen"/>dalke</hi> was taken on Sunday. And the Scots and ſome Engliſh have come upon the Rebels, and have reſtrained the <hi>Newſie</hi> from the Re<g ref="char:EOLhyphen"/>bels, with the loſſe of a few men, eightie of the Rebels are ſlaine, and good ſtore of Armes taken. The Scots and Engliſh from the North are 4000 Foot, and 400 Horſe, and their Army encreaſeth. There are in the Countie of <hi>Cavan,</hi> under the command of Sir <hi>Charles Coot,</hi> a thou<g ref="char:EOLhyphen"/>ſand Foot. We are in good hopes that tho Lords of the Pole wil prove true, for they are here offering their ſervice daily. Great in number the Rebels are, and daily encreaſing both in <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> and <hi>Conaught.</hi> My Lord <hi>Moores</hi> Troops have lately taken about ſixtie of the Rebels, and killed three of foure, and reſcued ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>even ſcore head of cattell from them. We doe not as yet heare of any riſing in <hi>Mounſter,</hi> or <hi>Lemſter:</hi> ſo as we hope theſe broyles will ceaſe, when the Engliſh Army as well as the Scots fall upon them. Thus hoping I have ſatisfied you herein, I commend you to God, and reſt</p>
+            <closer>
+               <signed>Your loving friend, <hi>H. L.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Relation of all the proceedings of the Honorable Houſe of Commons coneerning the ſetling of the Commotions in <hi>Ireland.</hi>
+            </head>
+            <p>THe Houſe of <hi>Commons</hi> ſate theſe three days paſt, being the 15.16.17. of <hi>November,</hi> till eight of the clock at night, ordring and pro<g ref="char:EOLhyphen"/>viding for the ſecurity of the Kingdom of <hi>Ireland,</hi> appointing all thoſe Officors that ſhould be employed in this affaire of ſuch great and conſe<g ref="char:EOLhyphen"/>quent importance.</p>
+            <pb facs="tcp:112422:5"/>
+            <p> Likewiſe it was this day ordered, that Forces ſhould be ready with al expedition to be ſent into <hi>Ireland,</hi> to ſecure all thoſe places which are in danger of being plundered by the Rebels.</p>
+            <p>Likewiſe it was ordered by the Houſe of Parliament in <hi>Scotland</hi> that Generall <hi>Leſhſly</hi> ſhould goe over with 400. Red-ſhanks to ſe<g ref="char:EOLhyphen"/>cure <hi>Dublin,</hi> untill ſuch time as our <hi>Engliſh</hi> Forces bee raiſed and ſent over to joyn with the <hi>Scots</hi> and <hi>Iriſh</hi> Forces and make a com<g ref="char:EOLhyphen"/>pleat Armie, ſo by that meanes to quell thoſe Rebellious <hi>Iriſh</hi> Pa<g ref="char:EOLhyphen"/>piſts, which ſo treacherouſly have revolted, from ſo gracious a King under whoſe happy government they lived, ſecure and quiet, whoſe glorious Reigne the Lord continue, and bleſſe, and proſper all his Royall off-ſpring: ſo that when it ſhall pleaſe out God to take him from his throne on earth, he may be inveſted with a more glorious Crown in heaven: and let all true Subjects ſay: <hi>Amen.</hi>
+            </p>
+            <p>Likewiſe upon the 15. day of <hi>November,</hi> according to the com<g ref="char:EOLhyphen"/>mand of the Honourable Houſe of Parliament, there went 4. wag<g ref="char:EOLhyphen"/>gons with 7. cheſts of money drawne with 6. horſes each waggon with 6. men wel armed with fire locks and piſtols to guard it from ſtage to ſtage toward <hi>Weſcheſter,</hi> and thence to be ſhipt to <hi>Ireland,</hi> for the uſe and reliefe of our Forcees, which are ordained to ſerve in this Imployment, which God of his abundant mercy proſper: give them, we beſeech thee, couragious hearts, mixt with a religi<g ref="char:EOLhyphen"/>ous feare, ſo that they may couragiouſly fight for the defence of the good, and religiouſly feare to commit evill: ſo ſhall the religious war be crowned with a glorious victory, and an united peace ſet<g ref="char:EOLhyphen"/>led betweene the three Kingdomes of <hi>England, Scotland, and Ire<g ref="char:EOLhyphen"/>land:</hi> ſo ſhall the Goſpel have free liberty; So ſhall the Church mi<g ref="char:EOLhyphen"/>litant praiſe thee our God on earth, and in thy bleſſed time enjoy truo reſt with thee in the Church triumphant in heaven.</p>
+         </div>
+         <div type="lists_of_commanders">
+            <head>The Names of thoſe Commanders that are appointed by the High Court of Parliament, for this preſent Expedition.</head>
+            <list>
+               <item>SIr <hi>Simon Harcot,</hi> Colonel over the firſt Regiment.</item>
+               <item>
+                  <hi>Sergeant Major Berry;</hi> Commands 300. men with fire-locks.</item>
+               <item>
+                  <hi>Coronell Mandro,</hi> commands 2. Regiments from <hi>Scotland</hi> which were not disbanded.</item>
+               <item>Captain <hi>Atkins,</hi> commands a Regiment under the Earl of <hi>Eſſex.</hi>
+               </item>
+               <item>Sergeant Major <hi>Howell</hi> goeth with a Regiment under the com<g ref="char:EOLhyphen"/>mand of Colonell <hi>Merick.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Inferiour Officers.</head>
+               <item>Captaine <hi>Doſſin.</hi>
+               </item>
+               <item>Captaine <hi>Mullins.</hi>
+               </item>
+               <item>Captaine <hi>Payne.</hi>
+               </item>
+               <item>Captaine <hi>Smith.</hi>
+               </item>
+               <item>Captaine <hi>Langley.</hi>
+               </item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
